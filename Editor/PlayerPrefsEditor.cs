@@ -98,7 +98,7 @@ namespace Sabresaurus.PlayerPrefsEditor
         SearchField searchField;
 #endif
 
-        [MenuItem("Window/PlayerPrefs Editor")]
+        [MenuItem("XHFramework/ThirdPartyAssets/PlayerPrefs Editor")]
         private static void Init()
         {
             // Get existing open window or if none, make a new one:
